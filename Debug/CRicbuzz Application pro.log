@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(710,8): warning C4101: 'ss2': unreferenced local variable
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(753,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(765,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(775,22): warning C4584: 'Match': base-class 'Player' is already a base-class of 'Team'
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(91): message : see declaration of 'Player'
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(231): message : see declaration of 'Team'
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(825,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(943,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(966,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(990,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\Headers.h(998,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\CRicbuzz Application pro\main.cpp(404,7): warning C4101: 'checkSAVE': unreferenced local variable
+  CRicbuzz Application pro.vcxproj -> C:\Users\Zain ul Abideen\source\repos\CRicbuzz Application pro\Debug\CRicbuzz Application pro.exe

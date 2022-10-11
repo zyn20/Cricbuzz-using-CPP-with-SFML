@@ -1,0 +1,6 @@
+Pakistan,Babar Azam,Misbah_ul_Haq,1,11,50
+India,Narindar Modi,Adnan Sami,1,11,50,35,15
+England,BM Wiliams,JK Rowling,1,11,50,35,15
+South Africa,Hashim Amla,Lizarad Willams,1,11,50,35,15
+Australia,Steve Smith,Aron Finch,1,11,50,35,15
+West Indies,Chris Gayle,Ahmed Butt,1,11,50,35,15
